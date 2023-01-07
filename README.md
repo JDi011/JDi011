@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Web Developer
 -----------------
 
-I'm is a Computer Science Graduate and has been in the industry for the past 7 years, I've took up various project; solving different kinds of business problems, outside programming i also have a keen interest in trekking and wildlife photography, I've also took in interns and mentored them for different job roles in the Tech industry.
+I'm a Computer Science Graduate and has been in the industry for the past 7 years, I've took up various project; solving different kinds of business problems, outside programming i also have a keen interest in trekking and wildlife photography, I've also took in interns and mentored them for different job roles in the Tech industry.
 
 * 🌍  I'm based in India and UK
 * 🖥️  See my portfolio at [jdi011.com](http://jdi011.com)
